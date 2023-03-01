@@ -7,6 +7,11 @@ using namespace std;
 int main()
 {
      
-    
+    int tc; cin>>tc;
+    while(tc--)
+    {
+        //ll n; cin>>n;
+        cout<<4<<endl;
+    }
 return 0;
 }
